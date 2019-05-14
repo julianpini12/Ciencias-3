@@ -7,3 +7,6 @@ T → T ∗ F
 T → F
 F → num
 F → (E)
+
+
+Julian Pinilla 20142020012 Daniel Camargo 20142020094 Juan Sebastian Cruz 20141020128
